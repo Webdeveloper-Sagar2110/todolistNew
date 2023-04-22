@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todolistNew/static/css/main.2d01c483.css",
-    "main.js": "/todolistNew/static/js/main.484ac7be.js",
-    "static/js/787.e898c993.chunk.js": "/todolistNew/static/js/787.e898c993.chunk.js",
-    "index.html": "/todolistNew/index.html",
-    "main.2d01c483.css.map": "/todolistNew/static/css/main.2d01c483.css.map",
-    "main.484ac7be.js.map": "/todolistNew/static/js/main.484ac7be.js.map",
-    "787.e898c993.chunk.js.map": "/todolistNew/static/js/787.e898c993.chunk.js.map"
+    "main.css": "/todolistNew.github.io/static/css/main.2d01c483.css",
+    "main.js": "/todolistNew.github.io/static/js/main.f3d66fe1.js",
+    "static/js/787.e898c993.chunk.js": "/todolistNew.github.io/static/js/787.e898c993.chunk.js",
+    "index.html": "/todolistNew.github.io/index.html",
+    "main.2d01c483.css.map": "/todolistNew.github.io/static/css/main.2d01c483.css.map",
+    "main.f3d66fe1.js.map": "/todolistNew.github.io/static/js/main.f3d66fe1.js.map",
+    "787.e898c993.chunk.js.map": "/todolistNew.github.io/static/js/787.e898c993.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d01c483.css",
-    "static/js/main.484ac7be.js"
+    "static/js/main.f3d66fe1.js"
   ]
 }
